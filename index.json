@@ -1,5 +1,207 @@
 [
     {
-        "teste": "teste"
+        "nome": "The Legend of Zelda: Breath of the Wild",
+        "dataLancamento": "2017-03-03",
+        "urlCapa": "https://images.launchbox-app.com/9a408190-0eba-48f0-81fe-da1c431cffc8.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/79f159b7-702f-4483-816d-b39278142268.jpg",
+        "urlLogo": "https://images.launchbox-app.com/34de55ba-796d-476b-a0d8-f1a22d39bec6.png",
+        "generos": [
+            1,
+            2
+        ],
+        "desenvolvedor": 1,
+        "plataformas": [
+            5,
+            6
+        ],
+        "avaliacao": 9.8
+    },
+    {
+        "nome": "Red Dead Redemption 2",
+        "dataLancamento": "2018-10-26",
+        "urlCapa": "https://images.launchbox-app.com/2a0e9b47-f811-4a8b-bf99-9d6b808d8b51.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/1eab6146-8b55-466e-be96-f6f5735ec1f2.jpg",
+        "urlLogo": "https://images.launchbox-app.com/dccf6a4e-c1bc-4eee-9491-ff61a3769f12.png",
+        "generos": [
+            1,
+            2
+        ],
+        "desenvolvedor": 2,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 9.7
+    },
+    {
+        "nome": "The Witcher 3: Wild Hunt",
+        "dataLancamento": "2015-05-19",
+        "urlCapa": "https://images.launchbox-app.com/1e03e9a8-adde-47d8-bb3b-6bbffb229285.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/1195ec2a-fbf2-43f7-b0fc-5e73948b6917.jpg",
+        "urlLogo": "https://images.launchbox-app.com/0fa46bf3-ea08-4893-a609-d49261e58bfa.png",
+        "generos": 3,
+        "desenvolvedor": 3,
+        "plataformas": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "avaliacao": 9.6
+    },
+    {
+        "nome": "God of War",
+        "dataLancamento": "2018-04-20",
+        "urlCapa": "https://images.launchbox-app.com/0dcb34ee-96a3-4896-939f-3e77026eb05f.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/b93e2b9f-258e-44cf-8318-790b36d66c2e.jpg",
+        "urlLogo": "https://images.launchbox-app.com/808fdd3e-532f-41e2-9656-fc97d07fe8b2.png",
+        "generos": [
+            1,
+            2
+        ],
+        "desenvolvedor": 4,
+        "plataformas": [
+            1,
+            4
+        ],
+        "avaliacao": 9.7
+    },
+    {
+        "nome": "The Last of Us Part I",
+        "dataLancamento": "2023-03-28",
+        "urlCapa": "https://images.launchbox-app.com/c797cfc2-1e7d-4f7c-8b41-0d0568722d38.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/0fbeacbd-13ee-42af-b80a-2265b1ed44c2.jpg",
+        "urlLogo": "https://images.launchbox-app.com/c8e89d89-286c-40c7-808d-445485b07615.png",
+        "generos": [
+            1,
+            2
+        ],
+        "desenvolvedor": 5,
+        "plataformas": [
+            1
+        ],
+        "avaliacao": 9.6
+    },
+    {
+        "nome": "Horizon Zero Dawn",
+        "dataLancamento": "2017-02-28",
+        "urlCapa": "https://images.launchbox-app.com/df2541a1-dc3d-40c1-8677-9b2ffe11291f.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/6a841c33-b5f5-4093-bc0a-1bde7c4dc63e.jpg",
+        "urlLogo": "https://images.launchbox-app.com/c0248806-f6c8-4ebc-9258-13adb31e9474.png",
+        "generos": [
+            1,
+            3
+        ],
+        "desenvolvedor": 7,
+        "plataformas": [
+            1,
+            4
+        ],
+        "avaliacao": 9.3
+    },
+    {
+        "nome": "Dark Souls III",
+        "dataLancamento": "2016-03-24",
+        "urlCapa": "https://images.launchbox-app.com/3395b5b8-c045-4b91-9c23-efd223086848.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/ced009ae-c99b-4966-9f30-0d94dc7cc7fe.jpg",
+        "urlLogo": "https://images.launchbox-app.com/9feb98cd-6139-46a7-a3ae-c8909194f836.png",
+        "generos": [
+            1,
+            3
+        ],
+        "desenvolvedor": 9,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 9.4
+    },
+    {
+        "nome": "Resident Evil 2 (Remake)",
+        "dataLancamento": "2019-01-25",
+        "urlCapa": "https://images.launchbox-app.com/8fa56cc3-550a-4474-927a-80330757c3c6.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/4e0727c3-c27c-4730-9799-1a72cb79b0c5.jpg",
+        "urlLogo": "https://images.launchbox-app.com/b96023f8-1ec9-4e85-bb4c-1f4e97e29c04.png",
+        "generos": [
+            10,
+            14
+        ],
+        "desenvolvedor": 11,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 9.2
+    },
+    {
+        "nome": "Fortnite",
+        "dataLancamento": "2017-07-21",
+        "urlCapa": "https://images.launchbox-app.com/efe896d4-f456-44ff-9399-f57feb0d5a76.png",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/d865cd4f-a13b-429b-a85b-6800671012ee.jpg",
+        "urlLogo": "https://images.launchbox-app.com/54742703-ecc9-422e-8205-bf655c77df61.png",
+        "generos": 12,
+        "desenvolvedor": 12,
+        "plataformas": [
+            1,
+            3,
+            4,
+            5,
+            7
+        ],
+        "avaliacao": 9.1
+    },
+    {
+        "nome": "Control",
+        "dataLancamento": "2019-08-27",
+        "urlCapa": "https://images.launchbox-app.com/5dc87269-8944-4b7e-b791-b6d4aa48c3a9.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/d770787c-40fb-4a61-804e-2b326f086745.jpg",
+        "urlLogo": "https://images.launchbox-app.com/58ed4d47-a842-400b-8ad1-1700bb8481ae.png",
+        "generos": [
+            1,
+            2
+        ],
+        "desenvolvedor": 15,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 9.1
+    },
+    {
+        "nome": "Mass Effect: Andromeda",
+        "dataLancamento": "2017-03-21",
+        "urlCapa": "https://images.launchbox-app.com/151365fc-448a-4e20-8c41-a588b4579bdf.png",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/de7908f8-b7d9-4666-9a18-26e7540b2a70.jpg",
+        "urlLogo": "https://images.launchbox-app.com/73912fca-7493-4c3c-9885-2ff90783d953.png",
+        "generos": 3,
+        "desenvolvedor": 13,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 7.0
+    },
+    {
+        "nome": "Fallout 76",
+        "dataLancamento": "2018-11-14",
+        "urlCapa": "https://images.launchbox-app.com/aca302a5-ca06-40bc-830e-24621dd590bb.jpg",
+        "urlCapaPaisagem": "https://images.launchbox-app.com/b4e7ada5-c822-42a0-b1d9-c278e6d4c4df.jpg",
+        "urlLogo": "https://images.launchbox-app.com/f2556f12-872e-42d2-80d7-24e9747b611a.png",
+        "generos": [
+            1,
+            14
+        ],
+        "desenvolvedor": 9,
+        "plataformas": [
+            1,
+            3,
+            4
+        ],
+        "avaliacao": 6.8
     }
 ]

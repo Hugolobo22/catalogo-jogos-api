@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nome": "Ação"
+    },
+    {
+        "id": 2,
+        "nome": "Aventura"
+    },
+    {
+        "id": 3,
+        "nome": "RPG"
+    },
+    {
+        "id": 4,
+        "nome": "Simulação"
+    },
+    {
+        "id": 5,
+        "nome": "Estratégia"
+    },
+    {
+        "id": 6,
+        "nome": "Esportes"
+    },
+    {
+        "id": 7,
+        "nome": "Quebra-Cabeça"
+    },
+    {
+        "id": 8,
+        "nome": "Corrida"
+    },
+    {
+        "id": 9,
+        "nome": "Luta"
+    },
+    {
+        "id": 10,
+        "nome": "Terror"
+    },
+    {
+        "id": 11,
+        "nome": "Plataforma"
+    },
+    {
+        "id": 12,
+        "nome": "Battle Royale"
+    },
+    {
+        "id": 13,
+        "nome": "Tiro/Equipe"
+    },
+    {
+        "id": 14,
+        "nome": "Survival"
+    }
+]
