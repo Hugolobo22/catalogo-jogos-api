@@ -207,7 +207,7 @@
     {
         "nome": "Minecraft",
         "dataLancamento": "2011-11-18",
-        "urlCapa": "https://images.launchbox-app.com/4f70f53a-19fe-4b6a-8a28-d7e8fc739eaf.jpg",
+        "urlCapa": "https://upload.wikimedia.org/wikipedia/pt/9/9c/Minecraft_capa.png",
         "urlCapaPaisagem": "https://images.launchbox-app.com/c6f14260-70b9-49f4-9f61-4760ffb4c39c.jpg",
         "urlLogo": "https://images.launchbox-app.com/5b77b96e-d049-4bc7-899e-bf44d2f8326e.png",
         "generos": [
@@ -227,7 +227,7 @@
     {
         "nome": "Valorant",
         "dataLancamento": "2020-06-02",
-        "urlCapa": "https://images.launchbox-app.com/120f973c-b56a-4e6b-bbbe-e4bc29c39b02.jpg",
+        "urlCapa": "https://static.wikia.nocookie.net/dublagem/images/b/bb/Valorant_Postar_2.jpg/revision/latest?cb=20220427195449&path-prefix=pt-br",
         "urlCapaPaisagem": "https://images.launchbox-app.com/bfb353bb-4d32-4d91-964b-1b91b7cf470e.jpg",
         "urlLogo": "https://images.launchbox-app.com/72bc2293-788a-47a7-97bb-03cf4dc6b022.png",
         "generos": [
@@ -243,7 +243,7 @@
     {
         "nome": "Dead by Daylight",
         "dataLancamento": "2016-06-14",
-        "urlCapa": "https://images.launchbox-app.com/b2ff4c6c-2f49-4d8f-a68f-d4204f7e8793.jpg",
+        "urlCapa": "https://upload.wikimedia.org/wikipedia/pt/e/e9/Dead_By_Daylight.png",
         "urlCapaPaisagem": "https://images.launchbox-app.com/e51b9653-8c28-4a83-96fc-488d8a44e454.jpg",
         "urlLogo": "https://images.launchbox-app.com/8ef623de-65f8-41e3-b5a5-25cbef1296b4.png",
         "generos": [
@@ -279,7 +279,7 @@
     {
         "nome": "Hades II",
         "dataLancamento": "2024-01-01",
-        "urlCapa": "https://images.launchbox-app.com/4891b48d-91fe-45ff-b8fd-273ba97879a7.jpg",
+        "urlCapa": "https://i.pinimg.com/736x/51/8d/6d/518d6d5dd041b9b1dd66c5db52c9a3bb.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/cfb6746a-2f45-4b82-8c94-79cf24c6ef56.jpg",
         "urlLogo": "https://images.launchbox-app.com/7f50eb48-96f2-4a3f-9ae7-9fc94e15dfe3.png",
         "generos": [
@@ -295,7 +295,7 @@
     {
         "nome": "Cyberpunk 2077",
         "dataLancamento": "2020-12-10",
-        "urlCapa": "https://images.launchbox-app.com/5c930d23-df92-46b2-87e9-6b7e16d4f5aa.jpg",
+        "urlCapa": "https://s01.riotpixels.net/data/c8/97/c897801b-8a44-4318-8ab3-7633f0ae75a0.jpg/cover.cyberpunk-2077.1440x2160.2019-08-20.154.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/7d437c28-fac9-4d53-b89e-10b7f093e763.jpg",
         "urlLogo": "https://images.launchbox-app.com/ba3d019b-8f32-453d-a29a-7349dcb11bff.png",
         "generos": [
