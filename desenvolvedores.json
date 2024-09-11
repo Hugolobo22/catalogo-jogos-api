@@ -67,4 +67,20 @@
         "id": 17,
         "nome": "PlatinumGames"
     }
+    {
+        "id": 18,
+        "nome": "Mojang Studios"
+    }
+        {
+        "id": 19,
+        "nome": "Riot Games"
+    }
+    {
+        "id": 20,
+        "nome": "Behaviour Interactive"
+    }
+        {
+        "id": 21,
+        "nome": "Supergiant Games"
+    }   
 ]
