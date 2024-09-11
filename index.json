@@ -210,9 +210,18 @@
         "urlCapa": "https://images.launchbox-app.com/4f70f53a-19fe-4b6a-8a28-d7e8fc739eaf.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/c6f14260-70b9-49f4-9f61-4760ffb4c39c.jpg",
         "urlLogo": "https://images.launchbox-app.com/5b77b96e-d049-4bc7-899e-bf44d2f8326e.png",
-        "generos": [4, 7],
+        "generos": [
+            4, 
+            7
+        ],
         "desenvolvedor": 16,
-        "plataformas": [1, 3, 4, 5, 7],
+        "plataformas": [
+            1, 
+            3, 
+            4, 
+            5, 
+            7
+        ],
         "avaliacao": 9.5
     },
     {
@@ -221,9 +230,14 @@
         "urlCapa": "https://images.launchbox-app.com/120f973c-b56a-4e6b-bbbe-e4bc29c39b02.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/bfb353bb-4d32-4d91-964b-1b91b7cf470e.jpg",
         "urlLogo": "https://images.launchbox-app.com/72bc2293-788a-47a7-97bb-03cf4dc6b022.png",
-        "generos": [1, 13],
+        "generos": [
+            1, 
+            13
+        ],
         "desenvolvedor": 17,
-        "plataformas": [4],
+        "plataformas": [
+            4
+        ],
         "avaliacao": 9.0
     },
     {
@@ -232,9 +246,17 @@
         "urlCapa": "https://images.launchbox-app.com/b2ff4c6c-2f49-4d8f-a68f-d4204f7e8793.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/e51b9653-8c28-4a83-96fc-488d8a44e454.jpg",
         "urlLogo": "https://images.launchbox-app.com/8ef623de-65f8-41e3-b5a5-25cbef1296b4.png",
-        "generos": [10, 14],
+        "generos": [
+            10, 
+            14
+        ],
         "desenvolvedor": 18,
-        "plataformas": [1, 3, 4, 5],
+        "plataformas": [
+            1, 
+            3, 
+            4, 
+            5
+        ],
         "avaliacao": 8.7
     },
     {
@@ -243,9 +265,15 @@
         "urlCapa": "https://images.launchbox-app.com/1945482b-5419-481f-9f87-3f2f823370b1.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/fbbd4ac8-26cc-49de-8343-3b70474a8bda.jpg",
         "urlLogo": "https://images.launchbox-app.com/ae4d0f42-3d5b-4d83-9489-f1d8e7f9dcbf.png",
-        "generos": [1, 3],
+        "generos": [
+            1, 
+            3],
         "desenvolvedor": 19,
-        "plataformas": [1, 4, 5],
+        "plataformas": [
+            1, 
+            4, 
+            5
+        ],
         "avaliacao": 9.4
     },
     {
@@ -254,9 +282,14 @@
         "urlCapa": "https://images.launchbox-app.com/4891b48d-91fe-45ff-b8fd-273ba97879a7.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/cfb6746a-2f45-4b82-8c94-79cf24c6ef56.jpg",
         "urlLogo": "https://images.launchbox-app.com/7f50eb48-96f2-4a3f-9ae7-9fc94e15dfe3.png",
-        "generos": [1, 3],
+        "generos": [
+            1, 
+            3
+        ],
         "desenvolvedor": 19,
-        "plataformas": [4],
+        "plataformas": [
+            4
+        ],
         "avaliacao": 9.5
     },
     {
@@ -265,9 +298,16 @@
         "urlCapa": "https://images.launchbox-app.com/5c930d23-df92-46b2-87e9-6b7e16d4f5aa.jpg",
         "urlCapaPaisagem": "https://images.launchbox-app.com/7d437c28-fac9-4d53-b89e-10b7f093e763.jpg",
         "urlLogo": "https://images.launchbox-app.com/ba3d019b-8f32-453d-a29a-7349dcb11bff.png",
-        "generos": [1, 3],
+        "generos": [
+            1, 
+            3],
         "desenvolvedor": 3,
-        "plataformas": [1, 3, 4, 2],
+        "plataformas": [
+            1, 
+            3, 
+            4, 
+            2
+        ],
         "avaliacao": 8.8
     }
 ]
